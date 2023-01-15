@@ -1,0 +1,14 @@
+#app h1 {
+	color: aqua;
+}
+#app h1:hover{
+	text-decoration: underline;
+	text-decoration-color: chartreuse;
+}
+#app h2{
+	color: blueviolet;
+}
+#app h2:hover{
+	color: tomato;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
